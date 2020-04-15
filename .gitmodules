@@ -1,0 +1,4 @@
+[submodule "client"]
+    path = client
+    url = https://github.com/KnoDoctor/MERN_Starter_Boilerplate_Client.git
+    ignore = all
